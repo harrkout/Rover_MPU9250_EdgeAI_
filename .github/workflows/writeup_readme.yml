@@ -5,7 +5,7 @@ name: Writeup-Readme
 on:
   push:
     branches: 
-      - 'master'
+      - 'main'
     paths:
       - 'Koutsourelakis_Charilaos_MTP323_IoT_FinalReport_5Oct24.pdf'
       - '.README.md'
