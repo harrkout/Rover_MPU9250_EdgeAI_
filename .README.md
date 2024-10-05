@@ -11,6 +11,3 @@
   - `decision_tree_calc.ipynb`: Generates a Machine Learning prediction model from the `.csv` logs
   - `log.py`: Script that logs the serial output values of the MPU9250 (from columns) into a `.csv` file
 
-
-![image](https://github.com/harrkout/Rover_MPU9250_EdgeAI_/blob/readme_images/output-000.jpg?raw=true)
-![image](https://github.com/harrkout/Rover_MPU9250_EdgeAI_/blob/readme_images/output-001.jpg?raw=true)
