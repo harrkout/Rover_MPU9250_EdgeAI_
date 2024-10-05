@@ -12,5 +12,4 @@
   - `log.py`: Script that logs the serial output values of the MPU9250 (from columns) into a `.csv` file
 
 
-![image](https://github.com/harrkout/Rover_MPU9250_EdgeAI_/blob/readme_images/output-000.jpg?raw=true)
-![image](https://github.com/harrkout/Rover_MPU9250_EdgeAI_/blob/readme_images/output-001.jpg?raw=true)
+https://harrkout.github.io/Rover_MPU9250_EdgeAI/Koutsourelakis_Charilaos_MTP323_IoT_FinalReport_5Oct24.pdf> 
